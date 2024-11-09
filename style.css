@@ -85,3 +85,10 @@ p {
     width:100%;
     transition: 100ms ease-out;
 }
+
+/*btn2*/
+
+.btn-2{
+    transition: all 0.5s linear;
+    overflow:hidden;
+}
