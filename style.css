@@ -74,3 +74,10 @@ p {
     background: rgb(90,20, 203);
     box-shadow: -1px -1px 3px 0px #fff, 7px 7px 20px 0px #000300, 4px 4px 5px 0px #0002;
     transition: 50ms ease-in;
+}
+.btn1:after{
+    bottom:0;
+    left:0;
+    right:inherit;
+    top:inherit;
+}
