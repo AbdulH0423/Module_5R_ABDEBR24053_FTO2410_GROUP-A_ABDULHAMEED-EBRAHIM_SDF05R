@@ -65,3 +65,12 @@ p {
     box-shadow:black;
 
 }
+.btn-1:before, .btn-1:after{
+    content:'';
+    top:0;
+    right:0;
+    height: 2.5px;
+    position:absolute;
+    background: rgb(90,20, 203);
+    box-shadow: -1px -1px 3px 0px #fff, 7px 7px 20px 0px #000300, 4px 4px 5px 0px #0002;
+    transition: 50ms ease-in;
