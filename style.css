@@ -59,3 +59,9 @@ p {
     background: linear-gradient(10deg, rgba(254, 131, 0, 0.835) 1%, rgba(246, 7, 75, 0.773) 100%);
     
 }
+.btn-1:hover{
+    color:rgb(90,20,203);
+    background:transparent;
+    box-shadow:black;
+
+}
