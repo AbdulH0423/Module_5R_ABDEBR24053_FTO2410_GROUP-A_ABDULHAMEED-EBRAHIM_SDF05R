@@ -123,10 +123,13 @@ p {
   .btn-3{
     box-shadow: #353535;
     background: rgb(1, 198, 253);
+    z-index: 1;
   }
   .btn-3:after{
     position:absolute;
     content:'';
+    top: 0;
+    left: 0;
     width:100%;
     height:0;
     z-index: -1;
