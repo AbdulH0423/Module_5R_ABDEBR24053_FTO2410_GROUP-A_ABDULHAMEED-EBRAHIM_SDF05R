@@ -112,3 +112,9 @@ p {
       inset 4px 4px 6px 0 rgba(116, 125, 136, .3);
     color: #f90000;
   }
+
+.btn-2:hover:after{
+    transform: scale(2) rotate(215deg);
+    box-shadow:  4px 4px 6px 0 rgba(255,255,255,.5),
+                -4px -4px 6px 0 rgba(116, 125, 136, .2);
+  }
